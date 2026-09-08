@@ -7,7 +7,7 @@
   </dict></array>
   <key>metadata</key><dict>
     <key>bundle-identifier</key><string>com.irdetective.companion</string>
-    <key>bundle-version</key><string>0.15</string>
+    <key>bundle-version</key><string>0.16</string>
     <key>kind</key><string>software</string>
     <key>title</key><string>IR Detective</string>
   </dict>
